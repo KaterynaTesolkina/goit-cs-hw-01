@@ -1,1 +1,1 @@
-# goit-cs-hw-01
+# goit-hw-01
